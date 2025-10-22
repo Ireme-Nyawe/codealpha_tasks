@@ -1,0 +1,23 @@
+STUDENT GRADE REPORT
+Name: mukiza
+Grades: [63.0, 49.0, 74.0, 76.0]
+Average: 65.50
+Highest: 76.00
+Lowest: 49.00
+-------------------------------------------
+Name: manzi
+Grades: [75.0, 58.0, 84.0, 94.0]
+Average: 77.75
+Highest: 94.00
+Lowest: 58.00
+-------------------------------------------
+Name: muhire
+Grades: [80.0, 78.0, 67.0, 92.0]
+Average: 79.25
+Highest: 92.00
+Lowest: 67.00
+-------------------------------------------
+Class Average: 74.17
+Highest Grade in Class: 94.00
+Lowest Grade in Class: 49.00
+End of Report Summary.
