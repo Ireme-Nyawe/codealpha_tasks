@@ -49,18 +49,22 @@ git clone https://github.com/Ireme-Nyawe/codealpha_tasks.git
 
 1. Navigate to the src folder:
 
+```bash 
 cd codealpha_tasks/src
-
+````
 
 2. Compile the project:
 
-javac Main.java Student.java GradeTracker.java
+```bash 
+javac Main.java Student.java GradeTracker.java 
+```
 
 
 3. Run the program:
 
+```bash 
 java Main
-
+```
 
 ---------------
 ### Execution screnshots
